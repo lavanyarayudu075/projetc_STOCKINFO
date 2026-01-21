@@ -21,9 +21,6 @@ It helps analyze stock performance, trends, and key metrics through visual insig
 - sharepoint
 - power automate
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_overview.png)
-
 ## 📁 Repository Structure
 - `dashboards/` → Power BI (.pbix) file  
 - `images/` → Dashboard screenshots  
